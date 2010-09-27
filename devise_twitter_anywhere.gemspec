@@ -8,6 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Mateusz Drożdżyński"]
   s.email       = ["gems@objectreload.com"]
   s.homepage    = "http://github.com/objectreload/devise_twitter_anywhere"
+  s.summary     = "TODO: Write a gem summary"
+  s.description = "TODO: Write a gem description"
 
   s.required_rubygems_version = ">= 1.3.6"
   s.rubyforge_project         = "devise_twitter_anywhere"
